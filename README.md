@@ -1,6 +1,7 @@
 # IMDB_CASE_STUDY
 <p align="center"> 
-  ![alt text]![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/8b6f9094-e06c-4377-85c6-8a9b810a6cb1)
+  ![alt text]![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/793b7b6c-09a2-47c2-976f-5032ace19b19)
+
   
 # Introduction:
 The Internet Movie Database, or IMDb for short, is a database that contains details about movies, TV shows, podcasts, home videos, video games, and streaming content. It also includes cast, crew, and personal biographies, plot summaries, trivia, ratings, and reviews from fans and critics. In 1990, the Usenet group "rec.arts.movies" had a fan-run movie database called IMDb, which was later transferred to the Internet in 1993. It has been owned and run by IMDb.com, Inc., an Amazon subsidiary, since 1998.
