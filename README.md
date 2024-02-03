@@ -44,9 +44,17 @@ The Internet Movie Database, or IMDb for short, is a database that contains deta
 
 3.  According to the insight ***The Avatar** title initiate topmost revenue around ***$760,505,847***
 
-   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/0d16724e-cd0b-4252-86a2-f62b37158631)
+   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/d9529a73-a2d3-45c8-9709-5d4f43bee45e)
+
 
 4.  According to the chart ***Action*** Genre produced more revenue whereas ***Western*** genre produced least revenue
+
+   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/76c6e29a-4109-462c-9879-4fcd25eee431)
+
+ 
+  ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/f5f2cee8-d67b-47c8-9b74-8fe15a908c12)
+
+
 
    
 
