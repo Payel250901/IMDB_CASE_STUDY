@@ -24,3 +24,14 @@ The Internet Movie Database, or IMDb for short, is a database that contains deta
 8.  Which of the 10 countries generated the lowest average IMDb scores?
 9.  what are the Top 5 most budgeted Genre Movies ?
 10.  What is the Highest distribution of movie titles by country in the IMDb database?
+
+
+# Inquiry Insight: A Journey Through Answers
+1.  According to database japanese movies produced in English are
+- **Trainwrek**
+- **Tora! Tora! Tora!**,
+- **The quick and the death**
+- **Street Fighter**
+- **one missed called**
+ ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/81bdc508-82c8-43dc-a246-2a18606bd940)
+
