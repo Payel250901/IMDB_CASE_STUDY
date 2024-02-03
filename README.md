@@ -97,8 +97,9 @@ The Internet Movie Database, or IMDb for short, is a database that contains deta
 
 10.  According to the insight ***The Darknight** title initiate topmost revenue around ***$533,316,061***
 
-    ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/bc49a5fb-d0d5-4bc2-aa25-f4a4fc3b84c5)
+     ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/f9714047-0d88-4668-b249-08c408eafcea)
 
+   
 # CONCLUSION
 A thorough examination of the dataset that illuminates a number of facets of the film industry is the result of the IMDb Data Analysis Project.As a result, the IMDb Data Analysis Project offers useful information for upcoming projects in addition to a current picture of the film business. Decision-makers can use this powerful tool to navigate a constantly changing terrain and improve the entire cinematic experience for viewers by combining data analytics with the film industry.
 
