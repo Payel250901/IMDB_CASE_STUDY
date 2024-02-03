@@ -1,6 +1,6 @@
 # IMDB_CASE_STUDY
-<p align="center"> 
-  ![alt text]![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/793b7b6c-09a2-47c2-976f-5032ace19b19)
+
+  [image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/793b7b6c-09a2-47c2-976f-5032ace19b19)
 
   
 # Introduction:
