@@ -33,5 +33,22 @@ The Internet Movie Database, or IMDb for short, is a database that contains deta
 - **The quick and the death**
 - **Street Fighter**
 - **one missed called**
- ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/81bdc508-82c8-43dc-a246-2a18606bd940)
+
+   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/81bdc508-82c8-43dc-a246-2a18606bd940)
+
+
+
+2.  According to the insight ***The Celebration** Title generated around ***$1,647,780.00***
+
+   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/82443083-4f8a-4589-9146-2f2a127fdd1a)
+
+3.  According to the insight ***The Avatar** title initiate topmost revenue around ***$760,505,847***
+
+   ![image](https://github.com/Payel250901/IMDB_CASE_STUDY/assets/158448374/0d16724e-cd0b-4252-86a2-f62b37158631)
+
+4.  According to the chart ***Action*** Genre produced more revenue whereas ***Western*** genre produced least revenue
+
+   
+
+ 
 
